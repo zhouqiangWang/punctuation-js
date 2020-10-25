@@ -1,0 +1,27 @@
+{
+  "name": "punctuation",
+  "version": "1.0.0",
+  "description": "Practise Express App.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouqiangWang/punctuation-js.git"
+  },
+  "keywords": [
+    "Express",
+    "sideproject"
+  ],
+  "author": "zhouqiang.wang@hotmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhouqiangWang/punctuation-js/issues"
+  },
+  "homepage": "https://github.com/zhouqiangWang/punctuation-js#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "express": "^4.17.1"
+  }
+}
