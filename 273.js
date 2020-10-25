@@ -61,3 +61,11 @@ function getHundreds(n) {
 }
 
 console.log(numberToWords(123));
+
+console.log(1 >> 1);
+
+console.log('c'.charCodeAt() - 'a'.charCodeAt());
+
+for (let c of "sa") {
+    console.log(c);
+}
