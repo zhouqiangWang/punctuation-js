@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/zhouqiangWang/punctuation-js#readme",
   "dependencies": {
-    "axios": "^0.21.0",
+    "axios": "^0.21.1",
     "express": "^4.17.1"
   }
 }
